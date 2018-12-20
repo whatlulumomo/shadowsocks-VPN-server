@@ -1,0 +1,59 @@
+crypto_scalarmult/curve25519/donna_c64/libsodium_la-curve25519_donna_c64.lo: \
+ crypto_scalarmult/curve25519/donna_c64/curve25519_donna_c64.c \
+ /usr/include/stdc-predef.h /usr/include/string.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h include/sodium/utils.h \
+ include/sodium/export.h \
+ crypto_scalarmult/curve25519/donna_c64/curve25519_donna_c64.h \
+ include/sodium/crypto_scalarmult_curve25519.h \
+ crypto_scalarmult/curve25519/donna_c64/../scalarmult_curve25519.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+include/sodium/utils.h:
+
+include/sodium/export.h:
+
+crypto_scalarmult/curve25519/donna_c64/curve25519_donna_c64.h:
+
+include/sodium/crypto_scalarmult_curve25519.h:
+
+crypto_scalarmult/curve25519/donna_c64/../scalarmult_curve25519.h:

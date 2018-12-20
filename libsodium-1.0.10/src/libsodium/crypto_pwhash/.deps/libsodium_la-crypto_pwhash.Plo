@@ -1,0 +1,45 @@
+crypto_pwhash/libsodium_la-crypto_pwhash.lo: \
+ crypto_pwhash/crypto_pwhash.c /usr/include/stdc-predef.h \
+ /usr/include/errno.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ include/sodium/crypto_pwhash.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h \
+ include/sodium/crypto_pwhash_argon2i.h include/sodium/export.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/errno.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+include/sodium/crypto_pwhash.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+
+include/sodium/crypto_pwhash_argon2i.h:
+
+include/sodium/export.h:
